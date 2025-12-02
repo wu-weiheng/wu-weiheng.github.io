@@ -1,5 +1,5 @@
 # Site settings
-title:            '你的名字 - 个人主页' # 替换为你的姓名或网站标题
+title:            'Weiheng Wu' # 替换为你的姓名或网站标题
 description:      '你的个人简介，例如：一名软件工程师，关注人工智能和前端开发。' # 替换为你的描述
 url:              https://your-organization-name.github.io # **重要：替换为你的实际 Organization 名称**
 baseurl:          "" # **重要：确保这里是空字符串，即两个双引号**
